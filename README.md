@@ -46,11 +46,11 @@
 - Logging, monitoring, and incident response
 
 
-### 📌 What I'm working on
+## 📌 What I'm working on
 - Cloud & DevOps labs
 - Infrastructure as Code using Terraform
 - CI/CD pipelines
 
-### 📫 Connect with me
+## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/noura-abdelnabi-377b78289
 
