@@ -1,56 +1,54 @@
-## Hi, I'm Noura 👋
+## 👋 Hi, I'm Noura Abdelnabi
 
-🎓 Communication Engineer  
-☁️ Cloud & DevOps Enthusiast  
-🔐 Interested in Networking & Security
+**Cloud & DevOps Engineer | Linux | Networking & Security**
 
-## 🔧 Technical Skills
+I'm a communication engineer passionate about cloud computing, system administration, and DevOps automation.  
+I enjoy building hands-on labs, automating infrastructure, and learning by doing.
 
-### 🐧 Linux & System Administration
-- Red Hat Enterprise Linux (RHCSA)
-- File and directory management
-- Bash shell scripting
-- Users, groups, and services management
-- Storage management (partitions, LVM)
-- Filesystems, permissions, ACLs, and encryption
-- SELinux and firewall basics
+---
 
-### ⚙️ Automation & Configuration Management
-- Ansible Automation Platform
-- Playbooks, ad-hoc commands, and inventories
-- Ansible Roles and Ansible Vault
-- System administration automation
-
-### 📦 Containers & Kubernetes
-- Containers fundamentals and Podman
-- Building and managing container images
-- Container networking and storage
-- Kubernetes fundamentals
-- Red Hat OpenShift basics
-- Application deployment using Helm and S2I
-
-### ☁️ Cloud Computing (AWS)
-- AWS core services (EC2, VPC, IAM, S3)
-- AWS networking and security
-- IAM, MFA, and KMS
-- Monitoring with CloudWatch and CloudTrail
-- Serverless (Lambda, API Gateway)
-
-### 🏗️ Infrastructure as Code & CI/CD
-- Terraform and AWS CloudFormation
-- Jenkins
-- Git and GitHub
-
-### 🔐 Security & Operations
-- Cloud and system security fundamentals
-- Logging, monitoring, and incident response
-
-
-## 📌 What I'm working on
-- Cloud & DevOps labs
-- Infrastructure as Code using Terraform
+### 🚀 What I Work On
+- Cloud & DevOps hands-on projects
+- Linux system administration & automation
+- Infrastructure as Code (Terraform)
 - CI/CD pipelines
+- Cloud security fundamentals
 
-## 📫 Connect with me
+---
+
+### 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-RHEL-red)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Basics-blue)
+![OpenShift](https://img.shields.io/badge/OpenShift-Red%20Hat-red)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-darkred)
+![Git](https://img.shields.io/badge/Git-GitHub-black)
+
+---
+
+### 🔧 Core Skills
+- Linux Administration (RHCSA)
+- Bash Scripting
+- Ansible Automation
+- Containers (Podman, Docker basics)
+- Kubernetes & OpenShift fundamentals
+- AWS (EC2, VPC, IAM, S3)
+- Terraform & CloudFormation
+- CI/CD with Jenkins
+- Cloud & System Security basics
+
+---
+
+### 📌 Featured Projects
+- Terraform AWS Labs
+- Linux & Bash Automation Scripts
+- Ansible Playbooks
+- CI/CD Pipeline Labs
+
+---
+
+### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/noura-abdelnabi-377b78289
-
